@@ -14,10 +14,10 @@ picture: assets/images/ramen.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: http://www.cs.rpi.edu/~achowd/resume_CV_v1.pdf
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# url: https://koppl.in/indigo
+url: http://arichow.github.io
 
 permalink: /:title/
 
@@ -42,14 +42,14 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: arichow
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: aritra@aritrachowdhury.com
 
 authors:
     johndoe:

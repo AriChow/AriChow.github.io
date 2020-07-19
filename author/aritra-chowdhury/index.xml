@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aritra Chowdhury</title>
-    <link>https://arichow.github.io/author/aritra-chowdhury/</link>
-      <atom:link href="https://arichow.github.io/author/aritra-chowdhury/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://aritrachowdhury.com/author/aritra-chowdhury/</link>
+      <atom:link href="http://aritrachowdhury.com/author/aritra-chowdhury/index.xml" rel="self" type="application/rss+xml" />
     <description>Aritra Chowdhury</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://arichow.github.io/author/aritra-chowdhury/avatar_hu164c041d8688926bffbb660e59428021_62180_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>http://aritrachowdhury.com/author/aritra-chowdhury/avatar_hu164c041d8688926bffbb660e59428021_62180_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Aritra Chowdhury</title>
-      <link>https://arichow.github.io/author/aritra-chowdhury/</link>
+      <link>http://aritrachowdhury.com/author/aritra-chowdhury/</link>
     </image>
     
   </channel>

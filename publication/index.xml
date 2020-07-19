@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Aritra Chowdhury</title>
-    <link>https://arichow.github.io/publication/</link>
-      <atom:link href="https://arichow.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://aritrachowdhury.com/publication/</link>
+      <atom:link href="http://aritrachowdhury.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://arichow.github.io/img/static/files/ESCELL.png</url>
+      <url>http://aritrachowdhury.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://arichow.github.io/publication/</link>
+      <link>http://aritrachowdhury.com/publication/</link>
     </image>
     
   </channel>
